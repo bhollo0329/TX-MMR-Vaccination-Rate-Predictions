@@ -1,0 +1,328 @@
+"","name","label","concept","geography"
+"1","B14001_001","Estimate!!Total:","School Enrollment by Level of School for the Population 3 Years and Over",NA
+"2","B14001_002","Estimate!!Total:!!Enrolled in school:","School Enrollment by Level of School for the Population 3 Years and Over",NA
+"3","B14001_003","Estimate!!Total:!!Enrolled in school:!!Enrolled in nursery school, preschool","School Enrollment by Level of School for the Population 3 Years and Over",NA
+"4","B14001_004","Estimate!!Total:!!Enrolled in school:!!Enrolled in kindergarten","School Enrollment by Level of School for the Population 3 Years and Over",NA
+"5","B14001_005","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 1 to grade 4","School Enrollment by Level of School for the Population 3 Years and Over",NA
+"6","B14001_006","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 5 to grade 8","School Enrollment by Level of School for the Population 3 Years and Over",NA
+"7","B14001_007","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 9 to grade 12","School Enrollment by Level of School for the Population 3 Years and Over",NA
+"8","B14001_008","Estimate!!Total:!!Enrolled in school:!!Enrolled in college, undergraduate years","School Enrollment by Level of School for the Population 3 Years and Over",NA
+"9","B14001_009","Estimate!!Total:!!Enrolled in school:!!Graduate or professional school","School Enrollment by Level of School for the Population 3 Years and Over",NA
+"10","B14001_010","Estimate!!Total:!!Not enrolled in school","School Enrollment by Level of School for the Population 3 Years and Over",NA
+"11","B14002_001","Estimate!!Total:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"12","B14002_002","Estimate!!Total:!!Male:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"13","B14002_003","Estimate!!Total:!!Male:!!Enrolled in school:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"14","B14002_004","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in nursery school, preschool:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"15","B14002_005","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in nursery school, preschool:!!Public school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"16","B14002_006","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in nursery school, preschool:!!Private school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"17","B14002_007","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in kindergarten:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"18","B14002_008","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in kindergarten:!!Public school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"19","B14002_009","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in kindergarten:!!Private school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"20","B14002_010","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in grade 1 to grade 4:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"21","B14002_011","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in grade 1 to grade 4:!!Public school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"22","B14002_012","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in grade 1 to grade 4:!!Private school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"23","B14002_013","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in grade 5 to grade 8:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"24","B14002_014","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in grade 5 to grade 8:!!Public school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"25","B14002_015","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in grade 5 to grade 8:!!Private school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"26","B14002_016","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in grade 9 to grade 12:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"27","B14002_017","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in grade 9 to grade 12:!!Public school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"28","B14002_018","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in grade 9 to grade 12:!!Private school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"29","B14002_019","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in college undergraduate years:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"30","B14002_020","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in college undergraduate years:!!Public school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"31","B14002_021","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in college undergraduate years:!!Private school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"32","B14002_022","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in graduate or professional school:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"33","B14002_023","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in graduate or professional school:!!Public school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"34","B14002_024","Estimate!!Total:!!Male:!!Enrolled in school:!!Enrolled in graduate or professional school:!!Private school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"35","B14002_025","Estimate!!Total:!!Male:!!Not enrolled in school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"36","B14002_026","Estimate!!Total:!!Female:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"37","B14002_027","Estimate!!Total:!!Female:!!Enrolled in school:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"38","B14002_028","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in nursery school, preschool:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"39","B14002_029","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in nursery school, preschool:!!Public school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"40","B14002_030","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in nursery school, preschool:!!Private school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"41","B14002_031","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in kindergarten:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"42","B14002_032","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in kindergarten:!!Public school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"43","B14002_033","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in kindergarten:!!Private school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"44","B14002_034","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in grade 1 to grade 4:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"45","B14002_035","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in grade 1 to grade 4:!!Public school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"46","B14002_036","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in grade 1 to grade 4:!!Private school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"47","B14002_037","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in grade 5 to grade 8:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"48","B14002_038","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in grade 5 to grade 8:!!Public school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"49","B14002_039","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in grade 5 to grade 8:!!Private school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"50","B14002_040","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in grade 9 to grade 12:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"51","B14002_041","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in grade 9 to grade 12:!!Public school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"52","B14002_042","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in grade 9 to grade 12:!!Private school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"53","B14002_043","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in college undergraduate years:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"54","B14002_044","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in college undergraduate years:!!Public school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"55","B14002_045","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in college undergraduate years:!!Private school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"56","B14002_046","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in graduate or professional school:","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"57","B14002_047","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in graduate or professional school:!!Public school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"58","B14002_048","Estimate!!Total:!!Female:!!Enrolled in school:!!Enrolled in graduate or professional school:!!Private school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"59","B14002_049","Estimate!!Total:!!Female:!!Not enrolled in school","Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over",NA
+"60","B14003_001","Estimate!!Total:","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"61","B14003_002","Estimate!!Total:!!Male:","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"62","B14003_003","Estimate!!Total:!!Male:!!Enrolled in public school:","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"63","B14003_004","Estimate!!Total:!!Male:!!Enrolled in public school:!!3 and 4 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"64","B14003_005","Estimate!!Total:!!Male:!!Enrolled in public school:!!5 to 9 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"65","B14003_006","Estimate!!Total:!!Male:!!Enrolled in public school:!!10 to 14 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"66","B14003_007","Estimate!!Total:!!Male:!!Enrolled in public school:!!15 to 17 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"67","B14003_008","Estimate!!Total:!!Male:!!Enrolled in public school:!!18 and 19 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"68","B14003_009","Estimate!!Total:!!Male:!!Enrolled in public school:!!20 to 24 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"69","B14003_010","Estimate!!Total:!!Male:!!Enrolled in public school:!!25 to 34 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"70","B14003_011","Estimate!!Total:!!Male:!!Enrolled in public school:!!35 years and over","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"71","B14003_012","Estimate!!Total:!!Male:!!Enrolled in private school:","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"72","B14003_013","Estimate!!Total:!!Male:!!Enrolled in private school:!!3 and 4 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"73","B14003_014","Estimate!!Total:!!Male:!!Enrolled in private school:!!5 to 9 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"74","B14003_015","Estimate!!Total:!!Male:!!Enrolled in private school:!!10 to 14 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"75","B14003_016","Estimate!!Total:!!Male:!!Enrolled in private school:!!15 to 17 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"76","B14003_017","Estimate!!Total:!!Male:!!Enrolled in private school:!!18 and 19 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"77","B14003_018","Estimate!!Total:!!Male:!!Enrolled in private school:!!20 to 24 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"78","B14003_019","Estimate!!Total:!!Male:!!Enrolled in private school:!!25 to 34 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"79","B14003_020","Estimate!!Total:!!Male:!!Enrolled in private school:!!35 years and over","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"80","B14003_021","Estimate!!Total:!!Male:!!Not enrolled in school:","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"81","B14003_022","Estimate!!Total:!!Male:!!Not enrolled in school:!!3 and 4 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"82","B14003_023","Estimate!!Total:!!Male:!!Not enrolled in school:!!5 to 9 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"83","B14003_024","Estimate!!Total:!!Male:!!Not enrolled in school:!!10 to 14 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"84","B14003_025","Estimate!!Total:!!Male:!!Not enrolled in school:!!15 to 17 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"85","B14003_026","Estimate!!Total:!!Male:!!Not enrolled in school:!!18 and 19 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"86","B14003_027","Estimate!!Total:!!Male:!!Not enrolled in school:!!20 to 24 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"87","B14003_028","Estimate!!Total:!!Male:!!Not enrolled in school:!!25 to 34 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"88","B14003_029","Estimate!!Total:!!Male:!!Not enrolled in school:!!35 years and over","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"89","B14003_030","Estimate!!Total:!!Female:","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"90","B14003_031","Estimate!!Total:!!Female:!!Enrolled in public school:","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"91","B14003_032","Estimate!!Total:!!Female:!!Enrolled in public school:!!3 and 4 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"92","B14003_033","Estimate!!Total:!!Female:!!Enrolled in public school:!!5 to 9 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"93","B14003_034","Estimate!!Total:!!Female:!!Enrolled in public school:!!10 to 14 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"94","B14003_035","Estimate!!Total:!!Female:!!Enrolled in public school:!!15 to 17 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"95","B14003_036","Estimate!!Total:!!Female:!!Enrolled in public school:!!18 and 19 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"96","B14003_037","Estimate!!Total:!!Female:!!Enrolled in public school:!!20 to 24 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"97","B14003_038","Estimate!!Total:!!Female:!!Enrolled in public school:!!25 to 34 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"98","B14003_039","Estimate!!Total:!!Female:!!Enrolled in public school:!!35 years and over","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"99","B14003_040","Estimate!!Total:!!Female:!!Enrolled in private school:","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"100","B14003_041","Estimate!!Total:!!Female:!!Enrolled in private school:!!3 and 4 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"101","B14003_042","Estimate!!Total:!!Female:!!Enrolled in private school:!!5 to 9 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"102","B14003_043","Estimate!!Total:!!Female:!!Enrolled in private school:!!10 to 14 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"103","B14003_044","Estimate!!Total:!!Female:!!Enrolled in private school:!!15 to 17 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"104","B14003_045","Estimate!!Total:!!Female:!!Enrolled in private school:!!18 and 19 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"105","B14003_046","Estimate!!Total:!!Female:!!Enrolled in private school:!!20 to 24 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"106","B14003_047","Estimate!!Total:!!Female:!!Enrolled in private school:!!25 to 34 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"107","B14003_048","Estimate!!Total:!!Female:!!Enrolled in private school:!!35 years and over","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"108","B14003_049","Estimate!!Total:!!Female:!!Not enrolled in school:","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"109","B14003_050","Estimate!!Total:!!Female:!!Not enrolled in school:!!3 and 4 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"110","B14003_051","Estimate!!Total:!!Female:!!Not enrolled in school:!!5 to 9 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"111","B14003_052","Estimate!!Total:!!Female:!!Not enrolled in school:!!10 to 14 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"112","B14003_053","Estimate!!Total:!!Female:!!Not enrolled in school:!!15 to 17 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"113","B14003_054","Estimate!!Total:!!Female:!!Not enrolled in school:!!18 and 19 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"114","B14003_055","Estimate!!Total:!!Female:!!Not enrolled in school:!!20 to 24 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"115","B14003_056","Estimate!!Total:!!Female:!!Not enrolled in school:!!25 to 34 years","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"116","B14003_057","Estimate!!Total:!!Female:!!Not enrolled in school:!!35 years and over","Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over",NA
+"117","B14006_001","Estimate!!Total:","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"118","B14006_002","Estimate!!Total:!!Income in the past 12 months below the poverty level:","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"119","B14006_003","Estimate!!Total:!!Income in the past 12 months below the poverty level:!!Enrolled in school:","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"120","B14006_004","Estimate!!Total:!!Income in the past 12 months below the poverty level:!!Enrolled in school:!!Enrolled in nursery school, preschool","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"121","B14006_005","Estimate!!Total:!!Income in the past 12 months below the poverty level:!!Enrolled in school:!!Enrolled in kindergarten","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"122","B14006_006","Estimate!!Total:!!Income in the past 12 months below the poverty level:!!Enrolled in school:!!Enrolled in grade 1 to grade 4","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"123","B14006_007","Estimate!!Total:!!Income in the past 12 months below the poverty level:!!Enrolled in school:!!Enrolled in grade 5 to grade 8","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"124","B14006_008","Estimate!!Total:!!Income in the past 12 months below the poverty level:!!Enrolled in school:!!Enrolled in grade 9 to grade 12","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"125","B14006_009","Estimate!!Total:!!Income in the past 12 months below the poverty level:!!Enrolled in school:!!Enrolled in college undergraduate years","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"126","B14006_010","Estimate!!Total:!!Income in the past 12 months below the poverty level:!!Enrolled in school:!!Enrolled in graduate or professional school","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"127","B14006_011","Estimate!!Total:!!Income in the past 12 months below the poverty level:!!Not enrolled in school","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"128","B14006_012","Estimate!!Total:!!Income in the past 12 months at or above the poverty level:","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"129","B14006_013","Estimate!!Total:!!Income in the past 12 months at or above the poverty level:!!Enrolled in school:","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"130","B14006_014","Estimate!!Total:!!Income in the past 12 months at or above the poverty level:!!Enrolled in school:!!Enrolled in nursery school, preschool","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"131","B14006_015","Estimate!!Total:!!Income in the past 12 months at or above the poverty level:!!Enrolled in school:!!Enrolled in kindergarten","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"132","B14006_016","Estimate!!Total:!!Income in the past 12 months at or above the poverty level:!!Enrolled in school:!!Enrolled in grade 1 to grade 4","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"133","B14006_017","Estimate!!Total:!!Income in the past 12 months at or above the poverty level:!!Enrolled in school:!!Enrolled in grade 5 to grade 8","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"134","B14006_018","Estimate!!Total:!!Income in the past 12 months at or above the poverty level:!!Enrolled in school:!!Enrolled in grade 9 to grade 12","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"135","B14006_019","Estimate!!Total:!!Income in the past 12 months at or above the poverty level:!!Enrolled in school:!!Enrolled in college undergraduate years","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"136","B14006_020","Estimate!!Total:!!Income in the past 12 months at or above the poverty level:!!Enrolled in school:!!Enrolled in graduate or professional school","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"137","B14006_021","Estimate!!Total:!!Income in the past 12 months at or above the poverty level:!!Not enrolled in school","Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over",NA
+"138","B14007A_001","Estimate!!Total:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"139","B14007A_002","Estimate!!Total:!!Enrolled in school:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"140","B14007A_003","Estimate!!Total:!!Enrolled in school:!!Enrolled in nursery school, preschool","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"141","B14007A_004","Estimate!!Total:!!Enrolled in school:!!Enrolled in kindergarten","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"142","B14007A_005","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 1","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"143","B14007A_006","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 2","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"144","B14007A_007","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 3","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"145","B14007A_008","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 4","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"146","B14007A_009","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 5","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"147","B14007A_010","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 6","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"148","B14007A_011","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 7","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"149","B14007A_012","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 8","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"150","B14007A_013","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 9","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"151","B14007A_014","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 10","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"152","B14007A_015","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 11","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"153","B14007A_016","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 12","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"154","B14007A_017","Estimate!!Total:!!Enrolled in school:!!Enrolled in college, undergraduate years","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"155","B14007A_018","Estimate!!Total:!!Enrolled in school:!!Graduate or professional school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"156","B14007A_019","Estimate!!Total:!!Not enrolled in school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)",NA
+"157","B14007B_001","Estimate!!Total:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"158","B14007B_002","Estimate!!Total:!!Enrolled in school:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"159","B14007B_003","Estimate!!Total:!!Enrolled in school:!!Enrolled in nursery school, preschool","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"160","B14007B_004","Estimate!!Total:!!Enrolled in school:!!Enrolled in kindergarten","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"161","B14007B_005","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 1","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"162","B14007B_006","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 2","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"163","B14007B_007","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 3","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"164","B14007B_008","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 4","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"165","B14007B_009","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 5","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"166","B14007B_010","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 6","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"167","B14007B_011","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 7","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"168","B14007B_012","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 8","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"169","B14007B_013","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 9","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"170","B14007B_014","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 10","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"171","B14007B_015","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 11","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"172","B14007B_016","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 12","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"173","B14007B_017","Estimate!!Total:!!Enrolled in school:!!Enrolled in college, undergraduate years","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"174","B14007B_018","Estimate!!Total:!!Enrolled in school:!!Graduate or professional school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"175","B14007B_019","Estimate!!Total:!!Not enrolled in school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Black or African American Alone)",NA
+"176","B14007C_001","Estimate!!Total:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"177","B14007C_002","Estimate!!Total:!!Enrolled in school:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"178","B14007C_003","Estimate!!Total:!!Enrolled in school:!!Enrolled in nursery school, preschool","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"179","B14007C_004","Estimate!!Total:!!Enrolled in school:!!Enrolled in kindergarten","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"180","B14007C_005","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 1","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"181","B14007C_006","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 2","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"182","B14007C_007","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 3","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"183","B14007C_008","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 4","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"184","B14007C_009","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 5","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"185","B14007C_010","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 6","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"186","B14007C_011","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 7","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"187","B14007C_012","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 8","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"188","B14007C_013","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 9","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"189","B14007C_014","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 10","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"190","B14007C_015","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 11","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"191","B14007C_016","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 12","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"192","B14007C_017","Estimate!!Total:!!Enrolled in school:!!Enrolled in college, undergraduate years","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"193","B14007C_018","Estimate!!Total:!!Enrolled in school:!!Graduate or professional school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"194","B14007C_019","Estimate!!Total:!!Not enrolled in school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (American Indian and Alaska Native Alone)",NA
+"195","B14007D_001","Estimate!!Total:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"196","B14007D_002","Estimate!!Total:!!Enrolled in school:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"197","B14007D_003","Estimate!!Total:!!Enrolled in school:!!Enrolled in nursery school, preschool","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"198","B14007D_004","Estimate!!Total:!!Enrolled in school:!!Enrolled in kindergarten","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"199","B14007D_005","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 1","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"200","B14007D_006","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 2","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"201","B14007D_007","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 3","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"202","B14007D_008","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 4","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"203","B14007D_009","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 5","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"204","B14007D_010","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 6","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"205","B14007D_011","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 7","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"206","B14007D_012","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 8","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"207","B14007D_013","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 9","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"208","B14007D_014","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 10","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"209","B14007D_015","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 11","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"210","B14007D_016","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 12","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"211","B14007D_017","Estimate!!Total:!!Enrolled in school:!!Enrolled in college, undergraduate years","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"212","B14007D_018","Estimate!!Total:!!Enrolled in school:!!Graduate or professional school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"213","B14007D_019","Estimate!!Total:!!Not enrolled in school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)",NA
+"214","B14007E_001","Estimate!!Total:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"215","B14007E_002","Estimate!!Total:!!Enrolled in school:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"216","B14007E_003","Estimate!!Total:!!Enrolled in school:!!Enrolled in nursery school, preschool","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"217","B14007E_004","Estimate!!Total:!!Enrolled in school:!!Enrolled in kindergarten","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"218","B14007E_005","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 1","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"219","B14007E_006","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 2","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"220","B14007E_007","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 3","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"221","B14007E_008","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 4","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"222","B14007E_009","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 5","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"223","B14007E_010","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 6","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"224","B14007E_011","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 7","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"225","B14007E_012","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 8","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"226","B14007E_013","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 9","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"227","B14007E_014","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 10","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"228","B14007E_015","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 11","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"229","B14007E_016","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 12","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"230","B14007E_017","Estimate!!Total:!!Enrolled in school:!!Enrolled in college, undergraduate years","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"231","B14007E_018","Estimate!!Total:!!Enrolled in school:!!Graduate or professional school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"232","B14007E_019","Estimate!!Total:!!Not enrolled in school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)",NA
+"233","B14007F_001","Estimate!!Total:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"234","B14007F_002","Estimate!!Total:!!Enrolled in school:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"235","B14007F_003","Estimate!!Total:!!Enrolled in school:!!Enrolled in nursery school, preschool","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"236","B14007F_004","Estimate!!Total:!!Enrolled in school:!!Enrolled in kindergarten","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"237","B14007F_005","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 1","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"238","B14007F_006","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 2","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"239","B14007F_007","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 3","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"240","B14007F_008","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 4","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"241","B14007F_009","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 5","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"242","B14007F_010","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 6","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"243","B14007F_011","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 7","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"244","B14007F_012","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 8","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"245","B14007F_013","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 9","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"246","B14007F_014","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 10","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"247","B14007F_015","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 11","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"248","B14007F_016","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 12","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"249","B14007F_017","Estimate!!Total:!!Enrolled in school:!!Enrolled in college, undergraduate years","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"250","B14007F_018","Estimate!!Total:!!Enrolled in school:!!Graduate or professional school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"251","B14007F_019","Estimate!!Total:!!Not enrolled in school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)",NA
+"252","B14007G_001","Estimate!!Total:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"253","B14007G_002","Estimate!!Total:!!Enrolled in school:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"254","B14007G_003","Estimate!!Total:!!Enrolled in school:!!Enrolled in nursery school, preschool","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"255","B14007G_004","Estimate!!Total:!!Enrolled in school:!!Enrolled in kindergarten","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"256","B14007G_005","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 1","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"257","B14007G_006","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 2","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"258","B14007G_007","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 3","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"259","B14007G_008","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 4","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"260","B14007G_009","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 5","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"261","B14007G_010","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 6","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"262","B14007G_011","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 7","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"263","B14007G_012","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 8","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"264","B14007G_013","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 9","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"265","B14007G_014","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 10","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"266","B14007G_015","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 11","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"267","B14007G_016","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 12","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"268","B14007G_017","Estimate!!Total:!!Enrolled in school:!!Enrolled in college, undergraduate years","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"269","B14007G_018","Estimate!!Total:!!Enrolled in school:!!Graduate or professional school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"270","B14007G_019","Estimate!!Total:!!Not enrolled in school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)",NA
+"271","B14007H_001","Estimate!!Total:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"272","B14007H_002","Estimate!!Total:!!Enrolled in school:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"273","B14007H_003","Estimate!!Total:!!Enrolled in school:!!Enrolled in nursery school, preschool","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"274","B14007H_004","Estimate!!Total:!!Enrolled in school:!!Enrolled in kindergarten","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"275","B14007H_005","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 1","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"276","B14007H_006","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 2","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"277","B14007H_007","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 3","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"278","B14007H_008","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 4","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"279","B14007H_009","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 5","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"280","B14007H_010","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 6","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"281","B14007H_011","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 7","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"282","B14007H_012","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 8","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"283","B14007H_013","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 9","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"284","B14007H_014","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 10","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"285","B14007H_015","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 11","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"286","B14007H_016","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 12","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"287","B14007H_017","Estimate!!Total:!!Enrolled in school:!!Enrolled in college, undergraduate years","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"288","B14007H_018","Estimate!!Total:!!Enrolled in school:!!Graduate or professional school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"289","B14007H_019","Estimate!!Total:!!Not enrolled in school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone, Not Hispanic or Latino)",NA
+"290","B14007I_001","Estimate!!Total:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"291","B14007I_002","Estimate!!Total:!!Enrolled in school:","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"292","B14007I_003","Estimate!!Total:!!Enrolled in school:!!Enrolled in nursery school, preschool","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"293","B14007I_004","Estimate!!Total:!!Enrolled in school:!!Enrolled in kindergarten","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"294","B14007I_005","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 1","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"295","B14007I_006","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 2","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"296","B14007I_007","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 3","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"297","B14007I_008","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 4","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"298","B14007I_009","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 5","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"299","B14007I_010","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 6","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"300","B14007I_011","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 7","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"301","B14007I_012","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 8","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"302","B14007I_013","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 9","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"303","B14007I_014","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 10","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"304","B14007I_015","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 11","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"305","B14007I_016","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 12","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"306","B14007I_017","Estimate!!Total:!!Enrolled in school:!!Enrolled in college, undergraduate years","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"307","B14007I_018","Estimate!!Total:!!Enrolled in school:!!Graduate or professional school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"308","B14007I_019","Estimate!!Total:!!Not enrolled in school","School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)",NA
+"309","B14007_001","Estimate!!Total:","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"310","B14007_002","Estimate!!Total:!!Enrolled in school:","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"311","B14007_003","Estimate!!Total:!!Enrolled in school:!!Enrolled in nursery school, preschool","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"312","B14007_004","Estimate!!Total:!!Enrolled in school:!!Enrolled in kindergarten","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"313","B14007_005","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 1","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"314","B14007_006","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 2","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"315","B14007_007","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 3","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"316","B14007_008","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 4","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"317","B14007_009","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 5","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"318","B14007_010","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 6","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"319","B14007_011","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 7","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"320","B14007_012","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 8","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"321","B14007_013","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 9","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"322","B14007_014","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 10","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"323","B14007_015","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 11","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"324","B14007_016","Estimate!!Total:!!Enrolled in school:!!Enrolled in grade 12","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"325","B14007_017","Estimate!!Total:!!Enrolled in school:!!Enrolled in college, undergraduate years","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"326","B14007_018","Estimate!!Total:!!Enrolled in school:!!Graduate or professional school","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
+"327","B14007_019","Estimate!!Total:!!Not enrolled in school","School Enrollment by Detailed Level of School for the Population 3 Years and Over",NA
